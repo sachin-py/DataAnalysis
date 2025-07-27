@@ -1,5 +1,3 @@
-# numpy_array_examples.py
-
 """
 Author : Sachin Kumar
 GitHub : https://github.com/sachin-py/DataAnalysis/tree/main/NumPy
